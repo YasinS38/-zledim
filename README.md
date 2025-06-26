@@ -138,7 +138,7 @@
     <p class="note">Seni seviyorum çünkü sen, olduğun halinle bile mükemmelsin.</p>
     <p class="note">Ve ben, her gün biraz daha sana aşık oluyorum.</p>
 
-    <div class="divider">💖 Seni Seviyorum, Aleyna 💖</div>
+    <div class="divider">💖 Seni çoook Seviyorum, Aleyna 💖</div>
 
     <div class="gallery">
       <h3>🌸 Birlikte Anılarımız</h3>
